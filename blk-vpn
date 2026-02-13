@@ -1,0 +1,91 @@
+! =========================
+! VPN SERVICE
+! =========================
+
+||nordvpn.com^
+||nordcdn.com^
+||expressvpn.com^
+||surfshark.com^
+||surfsharkdns.com^
+||cyberghostvpn.com^
+||privateinternetaccess.com^
+||pia-vpn.com^
+||protonvpn.com^
+||proton.me^
+||mullvad.net^
+||ivpn.net^
+||windscribe.com^
+||torguard.net^
+||hide.me^
+||hidemyass.com^
+||hma-vpn.com^
+||hotspotshield.com^
+||anchorfree.com^
+||tunnelbear.com^
+||vyprvpn.com^
+||goldenfrog.com^
+||purevpn.com^
+||atlasvpn.com^
+||privadovpn.com^
+||strongvpn.com^
+||vpnunlimited.com^
+||keepsolid.com^
+||fastestvpn.com^
+||zoogvpn.com^
+||vpnbook.com^
+||vpnproxymaster.com^
+||betternet.co^
+||urban-vpn.com^
+||seed4.me^
+||vpn360.com^
+||touchvpn.net^
+||thunder-vpn.com^
+||supervpn.net^
+||snapvpn.com^
+
+! =========================
+! DNS + VPN
+! =========================
+
+||nextdns.io^
+||controld.com^
+||rethinkdns.com^
+||adguard-dns.com^
+||dnswarden.com^
+||cleanbrowsing.org^
+||quad9.net^
+||opendns.com^
+
+! =========================
+! WIREGUARD / OPENVPN
+! =========================
+
+||openvpn.net^
+||wireguard.com^
+||wg0.net^
+||tailscale.com^
+||zerotier.com^
+
+! =========================
+! SELF-HOST / PRIVACY ROUTING
+! =========================
+
+||duckduckgo.com^$important,domain=mask.icloud.com
+||1.1.1.1^
+||one.one.one.one^
+||cloudflare-dns.com^
+||googlevpn.com^
+
+! =========================
+! BROWSER VPN / EXTENSION
+! =========================
+
+||browsec.com^
+||zenmate.com^
+||hola.org^
+||holavpn.org^
+||setupvpn.com^
+||dotvpn.com^
+||veepn.com^
+||vpncity.com^
+
