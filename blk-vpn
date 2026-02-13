@@ -1,12 +1,11 @@
-! =========================
-! VPN SERVICE
-! =========================
+! =========================================
+! COMMERCIAL VPN SERVICES
+! =========================================
 
 ||nordvpn.com^
 ||nordcdn.com^
 ||expressvpn.com^
 ||surfshark.com^
-||surfsharkdns.com^
 ||cyberghostvpn.com^
 ||privateinternetaccess.com^
 ||pia-vpn.com^
@@ -18,67 +17,77 @@
 ||torguard.net^
 ||hide.me^
 ||hidemyass.com^
-||hma-vpn.com^
 ||hotspotshield.com^
 ||anchorfree.com^
 ||tunnelbear.com^
 ||vyprvpn.com^
-||goldenfrog.com^
 ||purevpn.com^
 ||atlasvpn.com^
 ||privadovpn.com^
 ||strongvpn.com^
 ||vpnunlimited.com^
-||keepsolid.com^
 ||fastestvpn.com^
 ||zoogvpn.com^
 ||vpnbook.com^
-||vpnproxymaster.com^
 ||betternet.co^
 ||urban-vpn.com^
 ||seed4.me^
 ||vpn360.com^
 ||touchvpn.net^
-||thunder-vpn.com^
-||supervpn.net^
+||thundervpn.com^
 ||snapvpn.com^
+||supervpn.net^
 
-! =========================
-! DNS + VPN
-! =========================
+! =========================================
+! GAME VPN / PING REDUCTION SERVICES
+! =========================================
 
-||nextdns.io^
-||controld.com^
-||rethinkdns.com^
-||adguard-dns.com^
-||dnswarden.com^
-||cleanbrowsing.org^
-||quad9.net^
-||opendns.com^
+||exitlag.com^
+||wtfast.com^
+||haste.net^
+||hasteapp.com^
+||noping.com^
+||mudfish.net^
+||gearupbooster.com^
+||lagofast.com^
+||xunyou.com^
+||uu.163.com^
+||netpas.cc^
+||leigod.com^
+||lonlife.cc^
+||tgbus.com^
+||qiyou.cn^
+||biubiu001.com^
 
-! =========================
-! WIREGUARD / OPENVPN
-! =========================
+! =========================================
+! MESH / TUNNEL / OVERLAY NETWORK
+! =========================================
 
-||openvpn.net^
-||wireguard.com^
-||wg0.net^
 ||tailscale.com^
 ||zerotier.com^
+||zerotierone.com^
+||hamachi.cc^
+||logmein.com^
+||ngrok.com^
+||localtunnel.me^
+||playit.gg^
+||radmin-vpn.com^
 
-! =========================
-! SELF-HOST / PRIVACY ROUTING
-! =========================
+! =========================================
+! SMART DNS
+! =========================================
 
-||duckduckgo.com^$important,domain=mask.icloud.com
-||1.1.1.1^
-||one.one.one.one^
-||cloudflare-dns.com^
-||googlevpn.com^
+||smartdnsproxy.com^
+||unlocator.com^
+||getflix.com.au^
+||dns4me.net^
+||overplay.net^
+||yonder.tv^
+||ironsocket.com^
 
-! =========================
+! =========================================
 ! BROWSER VPN / EXTENSION
-! =========================
+! =========================================
 
 ||browsec.com^
 ||zenmate.com^
@@ -89,3 +98,33 @@
 ||veepn.com^
 ||vpncity.com^
 
+! =========================================
+! DNS + VPN
+! =========================================
+
+||nextdns.io^
+||controld.com^
+||rethinkdns.com^
+||adguard-dns.com^
+||dnswarden.com^
+||cleanbrowsing.org^
+||quad9.net^
+||opendns.com^
+
+! =========================================
+! WIREGUARD / OPENVPN
+! =========================================
+
+||openvpn.net^
+||wireguard.com^
+
+! =========================================
+! iCloud Private Relay / DNS Escape
+! =========================================
+
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||cloudflare-dns.com^
+||one.one.one.one^
+||dns.google^
+||googlevpn.com^
