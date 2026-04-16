@@ -6,3 +6,5 @@
 @@||anydesk.com^
 @@||deepseek.com^
 @@||dnsdialer.com^
+@@||volces.com^
+@@||kimi.com^
