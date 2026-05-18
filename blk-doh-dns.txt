@@ -181,3 +181,4 @@
 ||family.freedns.controld.com^
 ||uncensored.freedns.controld.com^
 ||ada.openbld.net^
+||dnspub.restena.lu^
