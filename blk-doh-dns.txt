@@ -182,3 +182,4 @@
 ||uncensored.freedns.controld.com^
 ||ada.openbld.net^
 ||dnspub.restena.lu^
+||unfiltered.joindns4.eu^
